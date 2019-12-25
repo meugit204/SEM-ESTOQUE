@@ -110,9 +110,9 @@ img {max-width: 100%;}
 }
 
 @media (max-width: 662px){
-	.contaner-logo h2 { margin-top: -4%; }
-	.contaner-texto { margin-top: 4%; }
-	.contaner-pai02 { margin-top: 8%; }
+	.contaner-logo h2 { margin-top: -3%; }
+	.contaner-texto { margin-top: 3%; }
+	.contaner-pai02 { margin-top: 7%; }
 }
 
 @media (max-width: 491px){
