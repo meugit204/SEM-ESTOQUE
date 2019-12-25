@@ -13,7 +13,7 @@ img {max-width: 100%;}
 
 .contaner-esgotado {
 	width: 60%;
-	margin-top: 5%;
+	margin-top: 3%;
 	background-color: #FF0040;	
 }
 
@@ -27,7 +27,7 @@ img {max-width: 100%;}
 }
 
 .contaner-texto {
-	margin-top: 4%;
+	margin-top: 3%;
 	display: flex;
 	justify-content: center;
 }
