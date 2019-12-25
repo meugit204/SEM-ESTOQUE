@@ -1,7 +1,7 @@
 /*====== RESET ======*/
 * {margin: 0; padding: 0; font-size: 100%;  box-sizing: border-box; 
 font-family: 'Lato', sans-serif;}
-body {width: 100%; height: auto; background: #FACC2E; display: flex; justify-content: center; flex-direction: column; overflow-x: hidden; overflow-y: hidden;}
+body {width: 100%; height: auto; background: #FACC2E; display: flex; justify-content: center; flex-direction: column; }
 img {max-width: 100%;}
 
 /*todo o conteudo do site*/
@@ -107,6 +107,12 @@ img {max-width: 100%;}
 @media (max-width: 689px){
 	.contaner-esgotado { width: 80%; }
 	.btn { font-size: 1.5em; }
+}
+
+@media (max-width: 662px){
+	.contaner-logo h2 { margin-top: -4%; }
+	.contaner-texto { margin-top: 4%; }
+	.contaner-pai02 { margin-top: 8%; }
 }
 
 @media (max-width: 491px){
