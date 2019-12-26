@@ -79,6 +79,7 @@ img {max-width: 100%;}
 
 .btn i {
 	padding: 2%;
+	float: right;
 }
 
 .contaner-final {
