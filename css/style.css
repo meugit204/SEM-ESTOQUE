@@ -59,6 +59,7 @@ img {max-width: 100%;}
 .emoji-triste i:last-child {
 	padding-left: 4%;
 }
+
 .contaner-pai02 {
 	width: 90%;
 	display: flex;
@@ -66,22 +67,22 @@ img {max-width: 100%;}
 	margin-top: 8%;
 }
 
-.contaner-pai02 .btn {
-	padding: 10px;
+.contaner-btn {
+	width: 90%;
 }
 
 .btn {
-	background-color: #000;
-	color: #fff;
+	background-color: #FACC2E;
+	color: #000;
 	font-size: 2em;
 	text-transform: uppercase;
+	border: 1px solid #000;
+	width: 70%;
+	font-family: 'Gochi Hand', cursive;
+	border-radius: 5%;
 }
 
-.contaner-btn {
-	display: inline;
-}
-
-.btn i {
+.contaner-btn i {
 	padding: 2%;
 }
 
@@ -148,8 +149,7 @@ img {max-width: 100%;}
 
 @media (max-width: 351px){
 	.btn { font-size: 1em; }
-	.contaner-logo h2 { font-size: 3em; }
-	.contaner-logo h2 { margin-top: -3%; }
+	.contaner-final { margin-top: 10%; }
 }
 
 @media (max-width: 335px){
