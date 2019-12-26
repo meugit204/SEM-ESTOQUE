@@ -77,9 +77,12 @@ img {max-width: 100%;}
 	text-transform: uppercase;
 }
 
+.contaner-btn {
+	display: inline;
+}
+
 .btn i {
 	padding: 2%;
-	float: right;
 }
 
 .contaner-final {
